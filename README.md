@@ -1,6 +1,8 @@
 SensorTagTest
 ====
 
+![img01.png](img01.png)
+
 Copyright and license
 ----
 Copyright (c) 2018 yoggy
